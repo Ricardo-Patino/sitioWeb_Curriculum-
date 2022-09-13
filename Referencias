@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tarea Semana 4 - Ricardo Patiño</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+
+    </head>
+    <body>
+        <header>
+            <h1>Curriculum Vitae</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+        <article>
+                <ul>
+                    <p class='nombre'>Referencias</p>
+                    <br>
+                    <table>
+                        <tr class="titulo">
+                            <td>Nombre</td>
+                            <td>Título</td>
+                            <td>Teléfono</td>
+                            <td>Correo</td> 
+                        </tr>
+                        <tr class="detalle">
+                            <td>DANIEL YÉPEZ</td>
+                            <td>FOUNDER - RESONANCE COSTA RICA</td>
+                            <td><a href="tel:+(506)8818-0262">8818-0262</a></td>
+                            <td><a href="mailto:PURE2LIVE@GMAIL.COM">PURE2LIVE@GMAIL.COM</a></td>
+
+                        </tr>
+                        <tr class='detalle'>
+                            <td>ANA CATALINA HERNÁNDEZ</td>
+                            <td>HEALTH SERVICES ADMINISTRATION STUDENT - CCSS</td>
+                            <td><a href="tel:+(506)8781-6801">8781-6801</a></td>
+                            <td><a href="mailto:CATICHACON2016@GMAIL.COM">CATICHACON2016@GMAIL.COM</a></td>
+                        </tr>
+                        <tr class='detalle'>
+                            <td>JOSUÉ PALMA</td>
+                            <td>COMMERCIAL MANAGER - AT&T MÉXICO</td>
+                            <td><a href="tel:+(506)6079-3939">6079-3939</a></td>
+                            <td><a href="mailto:JPALMA16@HOTMAIL.COM">JPALMA16@HOTMAIL.COM</a></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                </ul>
+        </article>
+  
+        <footer>
+            <p>Tarea de semana 3 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 3 - Ricardo Patiño - curso HTML y CSS</div>
+    </body>
+</html>
