@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tarea Semana 4 - Ricardo Patiño</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+
+    </head>
+    <body>
+        <header>
+            <h1>Curriculum Vitae</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+            <h1>Experiencia Laboral</h1>
+        <br>
+            <img class='foto' src='https://d2j7qxqaxrrv1i.cloudfront.net/assets/logos/logo-sharing-open-graph-d86ba274c2e39fce1793f279f4b21802fb42e42e5f3803a299be08147115c9ee.png'>
+            <article>
+                <h2>CAMPAIGN MANAGER</h2>
+                <section><h3>MOVABLE INK | OCT 2021 – JAN 2022</h3>
+                    <br>
+                    <ul>
+                        <li class='descripcion'>Práctica profesional 4 meses, desarrollador de campañas de eMarketing por correo electrónico.</li>
+                        <li class='descripcion'>Crear contenido dinámico usando HTML/CSS/JavaScript.</li>
+                        <li class='descripcion'>Contestar y gestionar tickets con solicitudes varias de dise;o y programación para campañas web.</li>
+                        <li class='descripcion'>Control de calidad, asegurar que se cumplan con todos los requisitos (cero errores).</li>
+                    <li class='descripcion'>Realizar seguimiento del tiempo para cada tarea y campaña.</li>
+                    <li class='descripcion'>Administar cartera de clientes y sus campañas.</li>
+                    </ul>
+            </article></section>
+            <div class='limpiar'></div>
+            <br>
+            <br>
+            <img class='foto' src='https://static.wixstatic.com/media/dba39c_0dd48e65e9ed464d8751a70dbb3540b6~mv2.jpg/v1/fill/w_306,h_130,al_c,q_80,usm_0.66_1.00_0.01/cisco.jpg'>
+            <article>
+            <h2>NETWORK SUPPORT SPECIALIST - SOPORTE DE REDES</h2>
+            <section><h3>SYKES - CISCO | DEC 2018 – OCT 2021</h3>
+                    <br>
+                    <ul>
+                        <li class='descripcion'>Brindar soporte técnico e información del producto.</li>
+                        <li class='descripcion'>Configurar perfiles de acceso a la red en dispositivos CISCO como routers y switches.</li>
+                        <li class='descripcion'>Analizar y diagnosticar fallas en los disp[ositivos CISCO y configuración de la red.</li>
+                        <li class='descripcion'>Configurar y restablecer el acceso a la red.</li>
+                        <li class='descripcion'>Soporte mediante varias plataformas como teléfono, correo electrónico y chat para productos Cisco.</li>
+                    <li class='descripcion'>Análisis de red e implementación para mejorar el rendimiento de Cisco en sistemas Wifi.</li>
+                    <li class='descripcion'>Ayudar a los compañeros de trabajo a aclarar dudas en casos de gran dificultad.</li>
+                </ul>
+            </article></section>
+            <div class='limpiar'></div>
+            <br>
+            <br>
+                <img class='foto' src='https://logos-download.com/wp-content/uploads/2020/07/LogMeIn_Logo-420x121.png'>
+                <article>
+                    <h2>NETWORK TECH SUPPORT</h2>
+                    <section><h3>LOGMEIN -TELEPERFORMANCE COSTA RICA | NOV 2016 – DEC 2018</h3>
+                        <br>
+                        <ul>
+                            <li class='descripcion'>Soporte en; BoldChat, Bold 360, GotoAssist, Mesa de
+                                servicio, LogMeIn Rescue. Windows, Apple, Servidores, Redes inalámbricas.</li>
+                            <li class='descripcion'>Responder y resolver tiquetes de rutina, hardware/software
+                                de segundo nivel de complejidad.</li>
+                            <li class='descripcion'>Configuración en HTML de la plataforma y herramientas de boldchat.</li>
+                            <li class='descripcion'>Diagnosticar y corregir problemas de aplicaciones y
+                                hardware y problemas de conectividad avanzada.</li>
+                            <li class='descripcion'>Crear y mantener documentación y materiales de
+                                capacitación, utilizando plantillas estándar, para capacitar a
+                                los nuevos miembros del equipo.</li>
+
+                        </article></section>
+                        <div class='limpiar'></div>
+                        <br>
+                        <br>
+                        <br>
+            </article></section>
+            <div class='limpiar'></div>
+        <footer>
+            <p>Tarea de semana 4 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 4 - Ricardo Patiño - curso HTML y CSS</div>
+    </body>
+</html>
