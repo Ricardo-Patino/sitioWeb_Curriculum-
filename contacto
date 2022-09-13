@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Semana 4 - CV- Contáctenos</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+        <style>
+            textarea {
+                border-style:   none;
+                box-shadow:     0px 0px 3px #666;
+                margin-top:     50px;
+                margin-left:    10%;
+                margin-right:   10%;
+                border-radius:  5px;
+                outline:        0px;
+                padding:        10px;
+                font-size:      20px;
+                font-family:    Tahoma;
+                width:          80%;
+            }
+            
+            textarea:focus {
+                box-shadow:     0px 0px 5px #AA1111;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Contacto</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+        <br>
+        <img class='fotoarriba' src='Foto.jpg'>
+        <br>
+        <img class='foto' src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/12481007/image/d1785a78e912a903bfcc465b1e1e47d6'>
+        <br>
+        <label for="fname">Nombre: </label>
+        <input type="text" id="fname" name="fname"><br>
+         <label for="lname">Apellido: </label>
+            <input type="text" id="lname" name="lname">
+            <form action="action_page">
+                <textarea name='comentario' rows="10" maxlength="=5">¡Escriba aquí su mensaje! ¡Y depués haga clic en enviar!</textarea>
+            </form>
+        <body>
+            <br>
+            <center><a href="action_page.html"><input type="submit" value=" Enviar "> </a></center>
+        <br>
+        <br>
+        <center><H1>Horario</center></H1>
+        <br>
+        <table>
+            <tr class='titulo'>
+                <td>Día/Hora</td>
+                <td>8 a 5</td>
+                <td >6 pm</td>
+                <td>7 pm</td>
+                <td>8 pm</td>
+                <td>9 pm</td>
+            </tr>
+            <tr class='detalle'>
+                <td>Lunes</td>
+                <td>Trabajo</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+            </tr>
+            <tr class='detalle'>
+                <td>Martes</td>
+                <td>Trabajo</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+            </tr>
+            <tr class='detalle'>
+                <td>Miércoles</td>
+                <td>Trabajo</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+                <td>Programando</td>
+            </tr>
+            <tr class='detalle'>
+                <td>Jueves</td>
+                <td>Trabajo</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+            </tr>
+            <tr class='detalle'>
+                <td>Viernes</td>
+                <td>Trabajo</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+                <td>Estudios</td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <br>
+        </body>
+        <footer>
+            <p>Tarea de semana 4 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 4 - Ricardo Patiño - curso HTML y CSS</div>
+
+</html>
