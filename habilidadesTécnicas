@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tarea Semana 4 - Ricardo Patiño</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+
+    </head>
+    <body>
+        <header>
+            <h1>Curriculum Vitae</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+            <h1>Habilidades Técnicas</h1>
+        </header>
+        <article>
+            <br>
+            <img class='foto' src='https://ayudawp.com/wp-content/uploads/2016/05/sintaxis-codigo-html-840x472.jpg'>
+            <section>
+                <ul>
+                    <li class='descripcion'>Diseño web.</li>
+                    <li class='descripcion'>HTML.</li>
+                    <li class='descripcion'>Redes Sociales/content Management.</li>
+                    <li class='descripcion'>Contenido web.</li>
+                    <li class='descripcion'>Bootstrap.</li>
+                    <li class='descripcion'>Visual Studio.</li>
+                    <li class='descripcion'>SQL Server.</li>
+                    <li class='descripcion'>Bases de Datos My SQL.</li>
+                </ul>
+                </section>
+            <div class='limpiar'></div>
+        </article>
+        <footer>
+            <p>Tarea de semana 4 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 4 - Ricardo Patiño - curso HTML y CSS</div>
+    </body>
+</html>
