@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tarea Semana 4 - Ricardo Patiño</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+
+    </head>
+    <body>
+        <header>
+            <h1>Curriculum Vitae</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+        <h1>PROYECTOS PERSONALES</h1>
+        <br>
+        <img class='fotocuadro' src='https://scontent.fsjo14-1.fna.fbcdn.net/v/t39.30808-6/304763433_584955579995318_995245265543510966_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vSQstdXwpQUAX-W2391&_nc_ht=scontent.fsjo14-1.fna&oh=00_AT9sw3IGOJG-WRzQdE4E3ww0McFCTejdFe3BEbfcFvBdog&oe=6322015C'>
+        <br>
+        <br>
+        <h2>HOTEL VILLA GRACE</h2>
+        <h3 class="articulo2"><i>Mantenimiento y soporte a página web de negocio familiar. DIC 2021 -ACTUALMENTE</i></h3>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <h1>EDUCACIÓN</h1>
+            <br>
+                <p>
+                    Soy <b>Ingeniero en Redes</b> con experiencia en soluciones de <b>codificación.</b> He creado aplicaciones en <b>React.js, Python.
+                    Usando HTML, CSS, Ajax, Bootstrap, JavaScript.</b><br> Exacto, preciso y detallado. Puedo dedicarme a una amplia variedad de tareas que requieren atención a los datos 
+                    y la aplicación del conocimiento y la experiencia.
+                </p>
+
+                <img class='fotocuadro' src='https://www.coopejudicial.fi.cr/wp-content/uploads/2020/09/ufidelitas-logo.jpg'>
+                <br>
+                <br>
+                    <h2>UNIVERSIDAD FIDÉLITAS</h2>
+                    <h3 class="articulo2"><i>Actual Estudiante de Bachillerato en Ingeniería en Sistemas de Computación</i></h3>
+                <br>
+            <br>
+            <img class='fotocuadro' src='https://cdn.shopify.com/s/files/1/1810/5253/files/clients-logo-black-4geeks.jpg'>
+
+                <h2>4GEEKS ACADEMY USA</h2>
+                <h3 class="articulo2"><i>DESARROLLO DE SOFWARE FULLSTACK - 2021</i></h3>
+            <br>
+            <img class='fotocuadro' src='https://www.thinknexttraining.com/images/ccna_large.png'
+            <br>
+                    <h2><h2>CISCO NETWORKING ACADEMY - CCNA</h2>
+                    <h3 class="articulo2"><i>ACADEMIA DE REDES CISCO - 2019/2020</i></h3>
+            <br>
+            <br>
+            <img class='fotocuadro' src='https://th.bing.com/th/id/OIP.sGF5HUhWSZtafM_zi75rEgHaDa?pid=ImgDet&rs=1'>
+                <h2>BACH. ADMINISTRACIÓN DE EMPRESAS</h2>
+                <h3 class="articulo2"><i>UNIVERSIDAD LATINA DE COSTA RICA - 2007/2010</i></h3>
+            <br>
+            <br>
+            <br>
+        <footer>
+            <p>Tarea de semana 4 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 4 - Ricardo Patiño - curso HTML y CSS</div>
+    </body>
+</html>
