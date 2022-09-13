@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tarea Semana 4 - Ricardo Patiño</title>
+        <meta charset='UTF-8'>
+        <link rel="stylesheet" href="C:\Users\Racha\OneDrive - Universidad Fidélitas\Documentos\Fidelitas - Ing Sistemas\Cert en Diseño y Desarrollo Web\HTML5 y CSS3\Sem 4 Páguinas Responsivas\Evaluación\estilos.css">
+        <style>
+            aside {
+              width: 15%;
+              padding-right: 900px;
+              margin-right: 1px;
+              float: right;
+              font-style: italic;
+              background-color: rgb(255, 255, 255);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Curriculum Vitae</h1>
+            <nav style="background: #320d5538">
+                <a href="index.html">Inicio</a>
+                <a href="habilidadesTecnicas.html">Habilidades Técnicas</a>
+                <a href="experienciaLaboral.html">Experiencia Laboral</a>
+                <a href="Proyectos Personales - EducaciónCertis.html">Proyectos Personales - Educación/Certis</a>
+                <a href="referencias.html">Referencias</a>
+                <a href="contacto.html">Contacto</a>
+            </nav>
+        </header>
+        <h1>Ricardo Patiño Jiménez</h1>
+        <br>
+        <img class='fotoarriba' src='Drums-RachaPC.jpg'>
+        <br>
+        <aside>
+            <ul>
+                <ul id='primeraLista'>
+                    <li><a href="mailto:rickpationr@gmail.com">rickpationr@gmail.com</a></li>
+                </ul>
+                <ul id='segundaLista'>
+                    <li><a href= https://www.linkedin.com/in/ricardopatino1 >LinkedIn</a></href></li>
+                </ul>
+                <ul id='terceraLista'>
+                    <li><a href=https://github.com/Ricardo-Patino?tab=repositories>GitHub</a></href></li>
+                </ul>
+                <ul id='cuartaLista'>
+                    <li><a href="tel:+(506)88795100">Celular</a></li>
+                </ul>
+            </ul>
+        </aside>
+        <div class='limpiar'></div>
+        <br>
+        <article>
+            <p>
+                Soy Ingeniero en Redes, con experiencia en soluciones de codificación. He creado aplicaciones en React.js, Python.
+                Usando HTML, CSS, Ajax, Bootstrap, JavaScript. Exacto, preciso y detallado. Puedo dedicarme a una amplia variedad de tareas que requieren atención a los datos 
+                y la aplicación del conocimiento y la experiencia.
+            </p>
+            <br>
+            <div class='limpiar'></div>
+        </article>
+        <article>
+            <br>
+            <img class='foto' src='https://ayudawp.com/wp-content/uploads/2016/05/sintaxis-codigo-html-840x472.jpg'>
+            <section>
+                <a href="habilidadesTecnicas.html" class='nombre'>Habilidades Técnicas</a>
+                <br>
+                <p class='descripcion'>Haga click para ver mis habilidades técnicas.</p>
+            </section>
+            <div class='limpiar'></div>
+        </article>
+        
+        <article>
+            <br>
+            <img class='foto' src='https://techpathways.com.au/wp-content/uploads/2020/06/Depositphotos_106427590_xl-2015-870x600.png'>
+            <section>
+                <a href="experienciaLaboral.html" class='nombre'>Experiencia Laboral</a>
+                <br>
+                <p class='descripcion'>Haga click para ver mi experiencia laboral.</p>
+                <br>
+            </section>
+            <div class='limpiar'></div>
+        </article>
+
+        <article>
+
+            <img class='foto' src='https://founterior.com/wp-content/uploads/2014/08/Education-of-architects-is-important.jpg'>
+            <section>
+                <a href="peliculas.html" class='nombre'>Proyectos Personales - Educación/Certis </a>
+                <p class='descripcion'>Haga click para ver mis proyectos, educación y certificados.</p>
+
+            </section>
+            <div class='limpiar'></div>
+        </article>
+        <article>
+
+            <img class='foto' src='http://nebula.wsimg.com/0531237e54fe35b9580907885bf7db68?AccessKeyId=AF0B2D81775C6408FC1E&disposition=0&alloworigin=1'>
+            <section>
+                <a href="contactos.html" class='nombre'>Referencias</a>
+                <p class='descripcion'>Haga click para ver mis referencias.</p>
+                <br>
+                <br>
+                <br>
+                <br>
+            </section>
+            <div class='limpiar'></div>
+        </article>
+        <footer>
+            <p>Tarea de semana 4 - Creada por Ricardo Patiño</p>
+        </footer>
+        <div id='informacion'>Tarea de semana 4 - Ricardo Patiño - curso HTML y CSS</div>
+    </body>
+</html>
